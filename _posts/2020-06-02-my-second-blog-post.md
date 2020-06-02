@@ -1,5 +1,5 @@
 ---
-title: "Blog Post #1"
+title: "Blog Post #2"
 date: 2020-06-02
 ---
 
