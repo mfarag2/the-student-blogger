@@ -1,7 +1,7 @@
 title: The Student Blogger
 author: Mary Farag
 email: maryhfarag@gmail.com
-theme: jekyll-theme-minimal
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my life! Enjoy your stay. 
   
