@@ -1,5 +1,5 @@
 
-![IMG_3336]({{site.baseurl}}/IMG_3336.jpg)
+![me n laura]({{site.baseurl}}/me n laura.png)
 
 Welcome to my Blog! My name is Mary Farag, I'm a junior at East Brunswick High School. I love coding robots, playing lacrosse, and learning new things! I am currently documenting my life during these crazy times! 
 
