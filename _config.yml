@@ -1,11 +1,9 @@
-title: The Student Blogger 
+title: The Student Blogger
 author: Mary Farag
 email: maryhfarag@gmail.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my life! Enjoy your stay. 
-  
-![logo]({{site.baseurl}}/LOGO.jpg)
 
 # social links
 twitter_username: # DO NOT include the @ character, or else the build will fail!
