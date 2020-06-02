@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: # DO NOT include the @ character, or else the build will fail!
 github_username: mfarag2 # DO NOT include the @ character, or else the build will fail!
 instagram_username: mary.frog
-discord_username: mary#8182
+
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
