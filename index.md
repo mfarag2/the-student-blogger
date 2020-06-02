@@ -4,5 +4,7 @@ Welcome to my Blog! My name is Mary Farag, I'm a junior at East Brunswick High S
 
 You can learn more about me here: https://sites.google.com/ebnet.org/maryfarag/home
 
+LOGO.png
+
 
 
